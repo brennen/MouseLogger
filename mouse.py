@@ -2,6 +2,7 @@
 
 import ConfigParser
 import os
+import sqlite3
 import time
 
 import RPi.GPIO as io
